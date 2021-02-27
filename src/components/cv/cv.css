@@ -1,0 +1,45 @@
+
+.container{
+    display: flex;
+    background-color: rgb(105, 168, 69);
+    margin:  0.5rem 0.5rem .3rem 0.5rem;
+    flex-direction: column;
+}
+h1, h2{
+    text-align: center;
+}
+h3{
+    margin: 0.5rem 0.5rem .3rem 0.5rem;
+}
+
+
+
+
+/* medium screen */
+@media only screen and (min-width: 768px) {
+    
+
+    
+    
+    
+    .container{
+        background-color: blueviolet;
+    }
+        
+    } /* end of media query */
+
+
+
+
+/* large */
+    @media only screen and (min-width: 1024px) {
+    
+    
+        .container{
+            background-color: yellow;
+        }
+
+            
+            
+            
+        } /* end of media query */

@@ -1,9 +1,11 @@
+import "./cv.css"
+
 function Cv (){
 
 
 
-    return(<div><p>
-        <h1>Daniel Piga Curriculum Vitae</h1>
+    return(<div className="container">
+        <h1 className="container1">Daniel Piga Curriculum Vitae</h1>
         <h3>
         Daniel Piga<br></br>
         49 Market Square<br></br>
@@ -58,14 +60,15 @@ function Cv (){
         Languages: English, Italian
         
         <h2>Hobbies:</h2>
+        <p>
         My passion for understand how things work has led me to programming. This gives me a mental stimulus, as I enjoy learning how to build custom websites and applications for the challenge of the ever-changing landscape of the technical world we live in. 
         
         My love for travel is linked to my interest in photograph and the opportunity and challenge of capturing new landscapes and vistas.
         
         I enjoy motorsports which I have followed for over a decade and participate in a range of motor activity’s when the time permits.
+        </p>
         
-        
-        <h2>Referees: Reference available on request</h2></p></div>)
+        <h2>Referees:</h2> <p>Reference available on request</p></div>)
 
 }
 
