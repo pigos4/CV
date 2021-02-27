@@ -1,0 +1,15 @@
+
+
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    position: relative;
+    margin: 0.75rem 0.75rem 0.75rem 0.75rem;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}

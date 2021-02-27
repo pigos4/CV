@@ -3,11 +3,12 @@ import {  BrowserRouter as Router,  Switch,
   Route,  Link, } from "react-router-dom";
 import Home from './components/home/Home';
 import Cv from './components/cv/Cv';
+import Footer from './components/footer/footer.js';
 import './App.css'
 
 
 export default function App() {
-  return (
+  return (<>
     <Router>
       <div>
         <ul className="ulRoute">
@@ -35,5 +36,9 @@ export default function App() {
         </Switch>
       </div>
     </Router>
+    <footer>
+          <Footer/>
+    </footer>
+    </>
   );
 }
