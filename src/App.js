@@ -12,11 +12,11 @@ export default function App() {
     <Router>
       <div>
         <ul className="ulRoute">
-          <li >
-            <Link to="/">Home</Link>
+          <li  >
+            <Link to="/" ><p className="transformed">Home</p></Link>
           </li>
           <li>
-            <Link to="/cv">CV</Link>
+            <Link to="/cv"><p className="transformed">CV</p></Link>
           </li>
           {/* <li>
             <Link to="/topics">Topics</Link>
