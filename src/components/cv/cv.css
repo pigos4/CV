@@ -1,7 +1,7 @@
 
 .container{
     display: flex;
-    background-color: rgb(105, 168, 69);
+    background-color: rgb(214, 250, 194);
     margin:  0.5rem 0.5rem .3rem 0.5rem;
     flex-direction: column;
 }
@@ -23,7 +23,7 @@ h3{
     
     
     .container{
-        background-color: blueviolet;
+        background-color: rgb(215, 174, 253);
     }
         
     } /* end of media query */
@@ -36,7 +36,7 @@ h3{
     
     
         .container{
-            background-color: yellow;
+            background-color:beige;
         }
 
             

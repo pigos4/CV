@@ -14,7 +14,7 @@ function Cv() {
           Email: pigos487@gmail.com
         </h3>
         <p>
-          Programming / Markup Skills
+          <h2>Programming / Markup Skills</h2>
           <ul>
             <li>JavaScript</li>
             <li>Node</li>
@@ -112,7 +112,7 @@ Quick learner, Analytical, Driven Independent, Approachable, Team Player */}
         business to a €2M business, employing 20 employees.
       </p>
       <h2>Additional Skills</h2>
-      <p>Driver license: A, B, C and CPC Languages: English, Italian</p>
+      <p><b>Driver license:</b> A, B, C and CPC <br></br><b>Languages:</b> English, Italian</p>
       <h2>Hobbies:</h2>
       <p>
         My passion for understand how things work has led me to programming.
